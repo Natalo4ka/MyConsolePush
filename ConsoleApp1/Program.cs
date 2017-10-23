@@ -15,7 +15,7 @@ namespace ConsoleApp1
             StringBuilder sb2 = new StringBuilder("1");
             Console.WriteLine(sb==sb2);
             Console.WriteLine(sb.Equals(sb2));
-            t.Name = "erere";
+            t.Name = "namena";
             //t = new Test();
             const int[] d = { 1, 2, 3 };
 
